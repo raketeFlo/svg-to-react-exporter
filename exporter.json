@@ -1,16 +1,20 @@
 {
-    "id": "[COMPANY_NAME].exporter-[PLATFORM]",
-    "name": "[PLATFORM] Exporter",
+    "id": "sevdesk.svg-to-react-exporter",
+    "name": "Svg to React Exporter",
     "description": "Export your design system data into [PLATFORM / TECHNOLOGY]",
-    "author": "[AUTHOR_NAME]",
-    "organization": "[COMPANY_NAME]",
-    "homepage": "[COMPANY_WEBSITE or delete]",
+    "author": "Phoenix",
+    "organization": "sevDesk",
     "version": "1.0.0",
     "usesBrands": true,
-    "usesThemes": true,
+    "usesThemes": false,
     "executable": "/dist/build.js",
     "engine": "latest",
     "tags": [
-        "[ANYTHING_YOU_WANT, like 'Tokens', 'Assets' etc.]"
+        "Assets",
+        "Icons",
+        "Images",
+        "SVG",
+        "React",
+        "Components"
     ]
 }
