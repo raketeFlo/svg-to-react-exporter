@@ -10,8 +10,8 @@
     "author": "Phoenix",
     "license": "MIT",
     "dependencies": {
-        "@supernovaio/export-helpers": "latest",
-        "@supernovaio/sdk-exporters": "latest"
+        "@supernovaio/export-helpers": "1.0.7",
+        "@supernovaio/sdk-exporters": "2.0.9"
     },
     "devDependencies": {
         "@svgr/core": "^8.1.0",
