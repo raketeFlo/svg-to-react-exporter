@@ -1,0 +1,16 @@
+[
+  {
+    "key": "ignoredAssetPaths",
+    "type": "array",
+    "default": ["deprecated", "old", "backup"],
+    "title": "Ignored Asset Paths",
+    "description": "Ignored asset paths. By default, all icons will be exported, however, you can specify which paths should be excluded. If you include partial path fragments, all paths matching will be ignored (such as `icons` will ignore all icons in `icons/` folder and its subfolders)"
+  },
+  {
+    "key": "componentFolder",
+    "type": "string",
+    "default": "dist",
+    "title": "Componenet Folder",
+    "description": "Folder to write the components to"
+  }
+]

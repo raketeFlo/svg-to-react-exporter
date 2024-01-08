@@ -1,0 +1,16 @@
+{
+    "id": "[COMPANY_NAME].exporter-[PLATFORM]",
+    "name": "[PLATFORM] Exporter",
+    "description": "Export your design system data into [PLATFORM / TECHNOLOGY]",
+    "author": "[AUTHOR_NAME]",
+    "organization": "[COMPANY_NAME]",
+    "homepage": "[COMPANY_WEBSITE or delete]",
+    "version": "1.0.0",
+    "usesBrands": true,
+    "usesThemes": true,
+    "executable": "/dist/build.js",
+    "engine": "latest",
+    "tags": [
+        "[ANYTHING_YOU_WANT, like 'Tokens', 'Assets' etc.]"
+    ]
+}
