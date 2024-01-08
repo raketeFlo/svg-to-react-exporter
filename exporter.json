@@ -1,7 +1,7 @@
 {
     "id": "sevdesk.svg-to-react-exporter",
     "name": "Svg to React Exporter",
-    "description": "Export your design system data into [PLATFORM / TECHNOLOGY]",
+    "description": "Supernova Custom Exporter",
     "author": "Phoenix",
     "organization": "sevDesk",
     "version": "1.0.0",
